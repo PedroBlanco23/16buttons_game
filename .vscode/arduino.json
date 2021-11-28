@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "COM1",
+    "sketch": "16buttons_game\\16buttons_game.ino"
+}
